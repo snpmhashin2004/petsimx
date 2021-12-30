@@ -1,5 +1,5 @@
 local playercoin = 99999999999999999
-local pet = rainbowhugecat
+local pet = "rainbowhugecat"
 
 function HatchEgg(Pet)
   if playercoin = 99999999999999999

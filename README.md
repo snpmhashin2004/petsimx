@@ -1,2 +1,2 @@
 # petsimx
-Pet Simulator X Scripts
+If you can't run script message to me!

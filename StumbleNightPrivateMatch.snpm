@@ -1,0 +1,6 @@
+import #sn.ctsea
+import #sg.registry
+
+SNight.Popup(
+    uig.CreateRegistry(uig.popup(string mtg strong mvc))
+    uig.end()
